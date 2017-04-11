@@ -1,0 +1,21 @@
+{
+  "name": "NossoArV2",
+  "homepage": "https://github.com/thiagohrvieira/nossoar",
+  "authors": [
+    "Thiago <thiago.hrvieira@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
